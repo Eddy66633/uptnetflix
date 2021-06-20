@@ -17,10 +17,10 @@
     <br>
     <input type="text" name="ap_p" placeholder="Apellido">
     <br>
+    <h1> perro <h1>   
     <br>
     <input type="text" name="ap_m" placeholder="Apellido Materno">
     <br>
-    <h1>noteveo<h1>
     <br>
     <input type="number" placeholder="Edad" name="edad">
     <br>
